@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name ="WalmartAutomation">
+<suite-files>
+<suite-file path="build/testng-home.xml"></suite-file>
+<suite-file path="build/testng-signin.xml"></suite-file>
+<suite-file path="build/testng-register.xml"></suite-file>
+
+</suite-files>
+</suite>
